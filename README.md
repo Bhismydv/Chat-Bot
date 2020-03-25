@@ -1,2 +1,2 @@
 # Chat-Box
-Simple Example of ChatBot
+Simple Example of ChatBox
